@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jd-barman
+- 👀 I’m interested in ...FrontEnd Development
+- 🌱 I’m currently learning ...Vanilla JS & ReactJS
+- 💞️ I’m looking to collaborate on ...LinkedIn & Email
+- 📫 How to reach me ...@jaideep.dta@gmail.com
